@@ -1,1 +1,5 @@
 timestamp,url,exists,status
+2021-03-01T09:14:31+09:00,https://yachiyo-covid19.netlify.app/,False,404
+2021-03-01T09:14:34+09:00,https://ishikawa-covid19.netlify.app/,False,404
+2021-03-01T09:14:47+09:00,https://covid19-kagawa.jp/,False,[Errno -5] No address associated with hostname
+2021-03-01T09:14:47+09:00,https://covid19-kochi.netlify.app/,False,404
